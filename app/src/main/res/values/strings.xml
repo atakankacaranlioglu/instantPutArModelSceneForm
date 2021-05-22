@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scene Form</string>
+    <string name="str_ar_desc">If you see this, your device not support the AR features.</string>
+</resources>
